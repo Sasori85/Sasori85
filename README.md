@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Stian Fossum, and i am from Nittedal in Norway. I moved to Haugesund in 2022 after the covid19 crisis to start life anew. I finished my education in processing operator in 2023 and now i am studying coding.
+
 <!--
 **Sasori85/Sasori85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
